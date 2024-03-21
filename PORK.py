@@ -154,11 +154,11 @@ logo=("""\033[1;37m
                                             
 ---------------------------------------------------
 \033[1;37m [•] \033[1;37mOwner     :   Sabisan Bomzan
- [•] Facebook  :   Sabisan Bomzan
- [•] Github    :   5AB15AN 
- [•] Tool      :   PAID
- [•] Whatsapp :   +9779745338181
- [•] Version   :  \033[1;32m 0.1\033[1;32m \033[1;37m
+ [•] Facebook  =   Sabisan Bomzan
+ [•] Github    =   5AB15AN 
+ [•] Tool      =   FREE
+ [•] Whatsapp =   +9779745338181
+ [•] Version   =  \033[1;32m 0.2\033[1;32m \033[1;37m
 \033[1;37m----------------------------------------------""")
 def linex():
         print('\033[1;37m----------------------------------------------')
@@ -221,6 +221,27 @@ def menu():
                                         plist.append('@first123')
                                         plist.append('@first1234')
                                         plist.append('first123@')
+                                        plist.append('firstlast')                                                                      
+                                        plist.append('lastfirst')                                           
+                                        plist.append('last@12345')
+                                        plist.append('@last123')
+                                        plist.append('123@first')
+                                        plist.append('@first')
+                                        plist.append('firstfirst')
+                                        plist.append('lastlast)
+                                        plist.append('sindhuli')
+                                        plist.append('pokhara')
+                                        plist.append('kathmandu)
+                                        plist.append('@momdad123')
+                                        plist.append('love you mom')
+                                        plist.append('@first123@')
+                                        plist.append('@momlove123')
+                                        plist.append('@first@12345@')
+                                        plist.append('first123@')
+                                        plist.append('last@54321')
+                                        plist.append('first@54321')
+                                        plist.append('first2345')
+                                        plist.append('first4321')
                                 else:
                                         try:
                                                 linex()
